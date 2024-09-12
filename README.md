@@ -1,6 +1,6 @@
 # Hello, I'm Krish
 <a href="https://linkedin.com/in/KrisBoston"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://uml.joinhandshake.com/profiles/20884429"><img src="https://path-to-handshake-logo/handshake-logo.png" alt="Handshake Logo" style="width: 200px;"/></a>
+<a href="https://uml.joinhandshake.com/profiles/20884429"><img src="https://drive.google.com/file/d/1tNRRypLwPIbp7Iztu3q3EZSPFcNeoKGG/view?usp=drive_link" alt="Handshake Logo" style="width: 200px;"/></a>
 
 
 Cybersecurity Enthusiast with a profound interest in technology and a dedication to solving complex problems.
