@@ -39,9 +39,7 @@ After completing my Master's degree in Computer Engineering, I set out to deepen
 
 ## Certifications
 <div>
-<script src="https://tryhackme.com/badge/2933231"></script>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
