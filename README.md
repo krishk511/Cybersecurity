@@ -12,10 +12,10 @@ Cybersecurity Enthusiast with a profound interest in cryptography technology, ha
 After completing my Master's degree in Computer Engineering, I set out to deepen my knowledge of cybersecurity. My goal is to gain a comprehensive understanding of current solutions for existing exploits, while also researching new vulnerabilities, with the aim of becoming a valuable contributor to the Cybersecurity community.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Setting up Home Lab                           | <a href="https://github.com/krishk511/Home-Lab Setup/tree/main"> Setting up Home Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/krishk511/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
