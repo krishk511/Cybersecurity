@@ -5,7 +5,7 @@
 <a href="https://learn.microsoft.com/en-us/users/kanagarayerkrishna-5085/transcript/73nqwu5xyqomkm5"><img src="https://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 
 
-Cybersecurity Enthusiast with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity Enthusiast with a profound interest in blockchain technology and a dedication to solving complex security problems.
 
 ## Objective
 
