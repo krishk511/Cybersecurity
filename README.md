@@ -15,7 +15,7 @@ After completing my Master's degree in Computer Engineering, I set out to deepen
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Home Lab                           | <a href="https://github.com/krishk511/Home-Lab Setup/tree/main"> Setting up Home Lab</a>|
+| Setting up Home Lab                           | <a href="https://github.com/krishk511/Home-Lab-Setup/tree/main"> Setting up Home Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/krishk511/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
