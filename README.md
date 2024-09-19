@@ -9,7 +9,7 @@ Cybersecurity Enthusiast with a profound interest in cryptography technology, ha
 
 ## Objective
 
-After completing my Master's degree in Computer Engineering, I set out to deepen my knowledge of cybersecurity. My goal is to gain a comprehensive understanding of current solutions for existing exploits, while also researching new vulnerabilities, with the aim of becoming a valuable contributor to the Cybersecurity community.
+This GitHub serves as a platform to display my ongoing journey in cybersecurity, driven by a deep curiosity to explore and master this critical field. Each project reflects my commitment to continuous learning, problem-solving, and advancing my technical expertise. I aim to contribute to the cybersecurity community while demonstrating my evolving skill set to potential employers and collaborators.
 
 ## Skills
 
