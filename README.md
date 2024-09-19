@@ -13,15 +13,16 @@ This GitHub serves as a platform to display my ongoing journey in cybersecurity,
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Setting up Home Lab                           | <a href="https://github.com/krishk511/Home-Lab-Setup/tree/main"> Setting up Home Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/krishk511/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                           | Associated Project         |
+|-------------------------------------------------|----------------------------|
+| Setting up Home Lab                             | <a href="https://github.com/krishk511/Home-Lab-Setup/tree/main"> Setting up Home Lab</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/krishk511/Detection-Lab/tree/main"> SIEM Implementation and Log Analysis </a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/krishk511/Network_Traffic_Monitoring/tree/main"> Network Traffic Monitoring </a>|
+| Security Automation with Shuffle SOAR           | <a href="https://github.com/krishk511/Shuffle_SOAR/tree/main"> Shuffle SOAR </a>|
+| Incident Response Planning and Execution        | <a href="https://github.com/krishk511/Incident_Response/tree/main"> Incident Response </a>|
+| Case Management with TheHive                    | <a href="https://github.com/krishk511/Case_Management/tree/main"> Case Management </a>|
+| Scripting and Automation for Threat Mitigation  | <a href="https://github.com/krishk511/Threat_Migitation/tree/main"> Threat Migitation using Scripts </a>|
+| Scanning the Metasploitable2 VM using Nmap      | <a href="https://github.com/krishk511/Scans_using_Nmap/tree/main"> Scans using Nmap </a>| 
 
 ## Tools
 
